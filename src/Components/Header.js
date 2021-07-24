@@ -17,7 +17,7 @@ export default function Header() {
 
   return (
     <div id='header_wrapper'>
-      <div id='header_logo'><a href='/'><img src='http://savecar.kr/img/savecar-logo.png' alt='header_logo'/></a></div>
+      <div id='header_logo'><a href='/'><img src='https://lh3.googleusercontent.com/proxy/Ysh-n6-lI0mUFgFgINooOEvhb2w6Xz6B8c3QfuxbyzFogdBIFmojfGeHVJK6B9uLlmSh_masGcGRm3BprPfxNB1L' alt='header_logo'/></a></div>
       <div id='header_btn'>
         <a href='/'><button id='header_home'>HOME</button></a>
         <a href='/'><button id='header_month_rent'>월렌트+12개월렌트</button></a>
