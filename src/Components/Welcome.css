@@ -19,6 +19,7 @@
 }
 
 #welcome_wrapper button {
+  height: 60px;
   font-size: 17px;
   color: aliceblue;
   border: none;
