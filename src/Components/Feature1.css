@@ -24,6 +24,12 @@
   margin: 0;
 }
 
+#feature1_title i {
+  font-size: 10px;
+  color: crimson;
+  padding-top: 30px;
+}
+
 #feature1_content {
   display: inline-flex;
   flex-direction: row;

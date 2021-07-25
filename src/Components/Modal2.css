@@ -1,0 +1,42 @@
+#modal2_wrap {
+  position: absolute;
+  height: 570px;
+  width: 400px;
+  top: 20%;
+  right: 20%;
+}
+
+#modal2_wrapper {
+  color: black;
+  background-color: lightgray;
+}
+
+#modal2_img_wrapper {
+  height: 95%;
+}
+
+#modal2_img_wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#modal2_text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#modal2_text button {
+  border: none;
+  background-color: transparent;
+}
+
+#modal2_text button:hover {
+  color: indianred;
+}
+
+#modal2_close {
+  display: none;
+}

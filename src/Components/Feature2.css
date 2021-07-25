@@ -17,6 +17,12 @@
   font-weight: 400;
 }
 
+#feature2_title i {
+  font-size: 10px;
+  color: crimson;
+  padding: 20px;
+}
+
 #feature2_content {
   margin: 20px 0;
   height: 450px;
@@ -26,6 +32,9 @@
 #feature2_content img {
   height: 80%;
   width: 100%;
+}
+
+#feature2_content img:hover {
 }
 
 #feature2_content button {

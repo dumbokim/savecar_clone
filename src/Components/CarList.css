@@ -17,6 +17,12 @@
   color: crimson;
 }
 
+#car_text i {
+  color: crimson;
+  font-size: 10px;
+  padding-top: 20px;
+}
+
 #car_title {
   font-size: 35px;
   padding: 20px;

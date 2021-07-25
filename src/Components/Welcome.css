@@ -18,6 +18,12 @@
   margin: 20px;
 }
 
+#welcome_main i {
+  color: crimson;
+  font-size: 10px;
+  padding: 10px;
+}
+
 #welcome_wrapper button {
   height: 60px;
   font-size: 17px;

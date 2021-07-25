@@ -30,7 +30,7 @@ export default function Pricing() {
       <div id='pricing_title'>
         <h1>한눈에 보는</h1>
         <h1>세이브카 가격표</h1>
-        <img src='' alt='blank_text' />
+        <i class="fas fa-circle"></i>
         <p>사이트 가격 오픈 !!</p>
       </div>
       <div id='pricing_content'>

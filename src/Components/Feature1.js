@@ -8,8 +8,7 @@ export default function Feature1() {
         <h1>누구나 장기 렌트</h1>
         <p>누구나 신차 장기렌트</p>
         <p>누구나 중고차 장기렌트</p>
-        <br/>
-        <img src='' alt='blank_text' />
+        <i class="fas fa-circle"></i>
       </div>
       <div id='feature1_content'>
         

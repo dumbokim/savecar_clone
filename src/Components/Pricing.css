@@ -16,6 +16,12 @@
   color: crimson;
 }
 
+#pricing_title i {
+  font-size: 10px;
+  color: crimson;
+  padding: 30px;
+}
+
 #pricing_content {
   display: inline-flex;
   flex-direction: row;

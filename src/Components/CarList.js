@@ -42,8 +42,7 @@ export default function CarList() {
         <p><span>자차, 정비</span>포함</p>
         <p>주행거리별 마일리지 제도</p>
         <p>마일리지별 국내최저가 월렌트 [가격all오픈]</p>
-        <br/>
-        <img src='/' alt='blank_text' />
+        <i class="fas fa-circle"></i>
         <br/>
         <button id='car_counsel'>온라인 상담신청</button>
         <div id='car_list_wrapper'>

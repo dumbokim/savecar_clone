@@ -1,0 +1,43 @@
+#footer_wrapper {
+  background-color: black;
+  height: 100%;
+}
+
+#footer_head {
+  display: inline-flex;
+  flex-wrap: wrap;
+  padding: 50px;
+}
+
+.footer_head_content {
+  width: 350px;
+  height: 200px;
+  margin: 25px;
+}
+
+.footer_head_content img {
+  width: 50px;
+}
+
+.footer_head_content h2 {
+  font-weight: 300;
+  font-size: 22px;
+  padding-bottom: 50px;
+}
+
+.footer_head_content p {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+#footer_text {
+  font-size: 19px;
+  font-weight: 400;
+  padding-bottom: 120px;
+}
+
+#footer_text i {
+  font-size: 10px;
+  color: crimson;
+  padding: 50px;
+}
