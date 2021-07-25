@@ -20,7 +20,7 @@ export default function Modal1() {
             <button onClick={() => {close()}}>[닫기]</button>
           </div>
         </div> 
-      ) : null
+      ) : <div id='modal1_closed'></div>
     )
   }
 

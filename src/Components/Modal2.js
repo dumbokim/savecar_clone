@@ -19,12 +19,13 @@ export default function Modal2() {
             <button onClick={() => {close2()}}>[닫기]</button>
           </div>
         </div> 
-      ) : null
+      ) : <div id='modal2_closed'></div>
     )
   }
 
-  const close2 = (e) => {
-    setModalOpen2(false);
+  const close2 = () => {
+      setModalOpen2(false);
+      return console.log(modalOpen2);
   } 
 
   return (

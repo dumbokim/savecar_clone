@@ -16,8 +16,8 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <Modal1 />
       <Modal2 />
+      <Modal1 />
       <Welcome/>
       <Apply/>
       <CarList/>

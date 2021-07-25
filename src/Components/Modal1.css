@@ -37,13 +37,15 @@
   color: indianred;
 }
 
-#modal1_close {
-  display: none;
-}
-
 @media (max-width: 720px) {
   #modal1_wrap {
     width: 70vw;
     left: 0%;
   }
+}
+
+#modal1_closed {
+  height: 0px;
+  width: 0px;
+  display: none;
 }
