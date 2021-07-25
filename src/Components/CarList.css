@@ -1,0 +1,76 @@
+#car_wrapper {
+  height: 100%;
+  color: black;
+  background-color: #f8f6f1;
+}
+
+#car_text {
+  padding-top: 180px;
+  padding-bottom: 100px;
+}
+
+#car_text p {
+  margin: 0;
+}
+
+#car_text p span {
+  color: crimson;
+}
+
+#car_title {
+  font-size: 35px;
+  padding: 20px;
+}
+
+#car_counsel {
+  height: 50px;
+  font-size: 17px;
+  color: aliceblue;
+  border: none;
+  background-color: #13a0b1;
+  border-radius: 20vh;
+  margin: 25px;
+  padding: 17px 50px;
+}
+
+#car_counsel:hover {
+  background-color: #e6a624;
+}
+
+/* #car_list_wrapper {
+  display: flex;
+  flex-direction: column;
+} */
+
+#car_list_wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#car_list_wrapper div {
+  height: 50vh;
+  width: 350px;
+  margin: 10px;
+}
+
+/* .car_list {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+} */
+
+#car_list_wrapper img {
+  width: 100%;
+  height: 70%;
+}
+
+#car_list_wrapper img:hover {
+  background-color: rgba(233, 80, 111, 0.753);
+}
+
+#car_list_wrapper h3 {
+  margin-top: 0;
+  font-weight: 400;
+}

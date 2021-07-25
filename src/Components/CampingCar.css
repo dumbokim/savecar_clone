@@ -1,0 +1,56 @@
+#camping_wrapper {
+  height: 100%;
+  color: black;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+#camping_title {
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+#camping_title h1 {
+  font-size: 33px;
+  font-weight: 400;
+}
+
+#camping_list {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#camping_list h2 {
+  font-size: 20px;
+  font-weight: 300;
+  margin: 25px;
+}
+
+#camping_list div {
+  width: 350px;
+  height: 70vh;
+  margin: 20px;
+}
+
+#camping_list div img {
+  width: 100%;
+  height: 70%;
+}
+
+#camping_list button {
+  margin: 30px;
+  background-color: #e6a624;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 10vw;
+  color: aliceblue;
+}
+
+#camping_list button:hover {
+  background-color: #13a0b1;
+}
+
+#travel button {
+  background-color: #362d2a;
+}

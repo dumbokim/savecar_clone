@@ -1,0 +1,44 @@
+#feature2_wrapper {
+  color: black;
+  padding-top: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+#feature2_title h2 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#feature2_title p {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+#feature2_content {
+  margin: 20px 0;
+  height: 450px;
+  width: 75vw;
+}
+
+#feature2_content img {
+  height: 80%;
+  width: 100%;
+}
+
+#feature2_content button {
+  height: 50px;
+  font-size: 17px;
+  color: aliceblue;
+  border: none;
+  background-color: #13a0b1;
+  border-radius: 20vh;
+  margin: 30px;
+  padding: 17px 50px;
+}
+
+#feature2_content button:hover {
+  background-color: #e6a624;
+}

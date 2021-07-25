@@ -23,8 +23,12 @@
   font-size: 17px;
   color: aliceblue;
   border: none;
-  background-color: teal;
+  background-color: #13a0b1;
   border-radius: 20vh;
   margin: 5px;
   padding: 17px 50px;
+}
+
+#welcome_wrapper button:hover {
+  background-color: #e6a624;
 }

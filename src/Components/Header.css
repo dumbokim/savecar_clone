@@ -21,19 +21,18 @@
   top: 0;
   left: 0;
   right: 0;
-  background-color: rgba(8, 8, 8, 0.747);
+  background-color: rgba(8, 8, 8, 0.904);
 }
 
 #header_logo {
   width: 15%;
   height: 100%;
   flex-basis: 25%;
-  padding-bottom: 15px;
+  padding-bottom: 25px;
 }
 
 #header_logo img {
-  width: 50%;
-  height: inherit;
+  width: 45%;
 }
 
 #header_btn {

@@ -1,5 +1,5 @@
 #apply_wrapper {
-  height: 80vh;
+  height: 100%;
   margin: 150px 10vw;
   background-color: #f8f6f1;
   color: black;
@@ -45,9 +45,13 @@
 
 #apply_btn1 {
   margin: 20px;
-  background-color: rgb(243, 189, 72);
+  background-color: #e6a624;
   border: none;
   padding: 15px 30px;
   border-radius: 10vw;
   color: aliceblue;
+}
+
+#apply_btn1:hover {
+  background-color: #13a0b1;
 }
