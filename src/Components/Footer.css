@@ -41,3 +41,13 @@
   color: crimson;
   padding: 50px;
 }
+
+@media (max-width: 760px) {
+  #footer_head {
+    padding: 50px 0px;
+  }
+
+  .footer_head_content {
+    width: 85vw;
+  }
+}

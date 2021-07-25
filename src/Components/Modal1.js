@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './Modal1.css';
 import modal1 from '../img/modal1.png';
+import { useMediaQuery } from 'react-responsive'
 
 export default function Modal1() {
 

@@ -54,3 +54,9 @@
 #travel button {
   background-color: #362d2a;
 }
+
+@media (max-width: 760px) {
+  #camping_list div {
+    width: 85vw;
+  }
+}
