@@ -1,20 +1,34 @@
 {
   "files": {
-    "main.css": "/savecar_clone/static/css/main.d1a22cdf.chunk.css",
-    "main.js": "/savecar_clone/static/js/main.6c68b458.chunk.js",
-    "main.js.map": "/savecar_clone/static/js/main.6c68b458.chunk.js.map",
+    "main.css": "/savecar_clone/static/css/main.590a74bb.chunk.css",
+    "main.js": "/savecar_clone/static/js/main.8a571ccb.chunk.js",
+    "main.js.map": "/savecar_clone/static/js/main.8a571ccb.chunk.js.map",
     "runtime-main.js": "/savecar_clone/static/js/runtime-main.92361423.js",
     "runtime-main.js.map": "/savecar_clone/static/js/runtime-main.92361423.js.map",
     "static/js/2.85cdf35b.chunk.js": "/savecar_clone/static/js/2.85cdf35b.chunk.js",
     "static/js/2.85cdf35b.chunk.js.map": "/savecar_clone/static/js/2.85cdf35b.chunk.js.map",
     "index.html": "/savecar_clone/index.html",
-    "static/css/main.d1a22cdf.chunk.css.map": "/savecar_clone/static/css/main.d1a22cdf.chunk.css.map",
-    "static/js/2.85cdf35b.chunk.js.LICENSE.txt": "/savecar_clone/static/js/2.85cdf35b.chunk.js.LICENSE.txt"
+    "static/css/main.590a74bb.chunk.css.map": "/savecar_clone/static/css/main.590a74bb.chunk.css.map",
+    "static/js/2.85cdf35b.chunk.js.LICENSE.txt": "/savecar_clone/static/js/2.85cdf35b.chunk.js.LICENSE.txt",
+    "static/media/c1.68233e57.png": "/savecar_clone/static/media/c1.68233e57.png",
+    "static/media/c2.a002087a.png": "/savecar_clone/static/media/c2.a002087a.png",
+    "static/media/c3.17755723.png": "/savecar_clone/static/media/c3.17755723.png",
+    "static/media/c4.6e68949a.png": "/savecar_clone/static/media/c4.6e68949a.png",
+    "static/media/c5.75aed84e.png": "/savecar_clone/static/media/c5.75aed84e.png",
+    "static/media/c6.aaf09288.png": "/savecar_clone/static/media/c6.aaf09288.png",
+    "static/media/c7.f28f8122.png": "/savecar_clone/static/media/c7.f28f8122.png",
+    "static/media/c8.aa18b898.png": "/savecar_clone/static/media/c8.aa18b898.png",
+    "static/media/c9.82797902.png": "/savecar_clone/static/media/c9.82797902.png",
+    "static/media/europe.54fa8cea.jpeg": "/savecar_clone/static/media/europe.54fa8cea.jpeg",
+    "static/media/feature2_img.0e29b3ca.png": "/savecar_clone/static/media/feature2_img.0e29b3ca.png",
+    "static/media/limou.15342b8d.jpeg": "/savecar_clone/static/media/limou.15342b8d.jpeg",
+    "static/media/savecar_logo.0120ca46.png": "/savecar_clone/static/media/savecar_logo.0120ca46.png",
+    "static/media/travel.2856440a.jpeg": "/savecar_clone/static/media/travel.2856440a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.92361423.js",
     "static/js/2.85cdf35b.chunk.js",
-    "static/css/main.d1a22cdf.chunk.css",
-    "static/js/main.6c68b458.chunk.js"
+    "static/css/main.590a74bb.chunk.css",
+    "static/js/main.8a571ccb.chunk.js"
   ]
 }
