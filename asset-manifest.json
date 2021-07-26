@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/savecar_clone/static/css/main.6b3a5eaa.chunk.css",
-    "main.js": "/savecar_clone/static/js/main.2283f402.chunk.js",
-    "main.js.map": "/savecar_clone/static/js/main.2283f402.chunk.js.map",
+    "main.css": "/savecar_clone/static/css/main.4a3de2fb.chunk.css",
+    "main.js": "/savecar_clone/static/js/main.97e723ff.chunk.js",
+    "main.js.map": "/savecar_clone/static/js/main.97e723ff.chunk.js.map",
     "runtime-main.js": "/savecar_clone/static/js/runtime-main.92361423.js",
     "runtime-main.js.map": "/savecar_clone/static/js/runtime-main.92361423.js.map",
     "static/js/2.61d716b2.chunk.js": "/savecar_clone/static/js/2.61d716b2.chunk.js",
     "static/js/2.61d716b2.chunk.js.map": "/savecar_clone/static/js/2.61d716b2.chunk.js.map",
     "index.html": "/savecar_clone/index.html",
-    "static/css/main.6b3a5eaa.chunk.css.map": "/savecar_clone/static/css/main.6b3a5eaa.chunk.css.map",
+    "static/css/main.4a3de2fb.chunk.css.map": "/savecar_clone/static/css/main.4a3de2fb.chunk.css.map",
     "static/js/2.61d716b2.chunk.js.LICENSE.txt": "/savecar_clone/static/js/2.61d716b2.chunk.js.LICENSE.txt",
     "static/media/address.73948584.png": "/savecar_clone/static/media/address.73948584.png",
     "static/media/c1.68233e57.png": "/savecar_clone/static/media/c1.68233e57.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.92361423.js",
     "static/js/2.61d716b2.chunk.js",
-    "static/css/main.6b3a5eaa.chunk.css",
-    "static/js/main.2283f402.chunk.js"
+    "static/css/main.4a3de2fb.chunk.css",
+    "static/js/main.97e723ff.chunk.js"
   ]
 }
