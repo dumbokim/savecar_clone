@@ -1,9 +1,3 @@
-@media (max-width: 760px) {
-  #apply_wrapper {
-    margin: 150px 1vw;
-  }
-}
-
 #apply_wrapper {
   height: 100%;
   margin: 150px 10vw;
@@ -61,4 +55,14 @@
 
 #apply_btn1:hover {
   background-color: #13a0b1;
+}
+
+@media (max-width: 760px) {
+  .apply_input {
+    width: 80vw;
+  }
+
+  #apply_input input {
+    width: 80%;
+  }
 }
