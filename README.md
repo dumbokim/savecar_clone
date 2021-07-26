@@ -3,6 +3,6 @@
 done on PC mode.    
          
 
-### pop up
+### Mobile nav bar
 
-because of pop up div size, mobile looks weird..   
+done
