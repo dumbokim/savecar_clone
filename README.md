@@ -1,8 +1,7 @@
 ## Savecar Clone web
 
-done on PC mode.    
-         
+세이브카 지원을 위한 웹사이트 클론   
+   
+      
 
-### Mobile nav bar
-
-done
+### react.js를 이용하여 만들었습니다.
